@@ -1,0 +1,6 @@
+{
+  "name": "BATTLE ROYALE MAX",
+  "description": "3D third-person Battle Royale mobile shooter with 20-player island combat, parachute drop, shrinking safe zone, 5 weapon classes, procedural audio, and online multiplayer rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
